@@ -27,7 +27,7 @@ A data science project that analyzes the relationship between **Bitcoin market s
 📦 trader-sentiment-insights
 ├── main.py                 # Main script to run full analysis
 ├── README.md               # Project overview and documentation
-└── /plots                  # Output directory for generated plots
+
 ```
 
 ---
